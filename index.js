@@ -7,4 +7,4 @@ const startServer = () => {
     app.listen(8000)
 }
 
-startServer()
+startServer();
